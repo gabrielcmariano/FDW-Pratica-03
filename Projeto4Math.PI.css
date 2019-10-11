@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(248, 224, 178);
+    font-family: sans-serif, verdana;
+    font-size: 25px;
+    color: white;
+    
+}
+section{
+    background-color: black;
+    text-align: center;
+    height: 40px;
+    padding: 2rem;
+    border: 4px solid orange;
+    
+}
